@@ -10,7 +10,7 @@ A modern Android app built with Kotlin, Jetpack Compose and Retrofit.
 - About us with Email and Instagram contacts
 
 ## Tech Stack
--Kotlin
+- Kotlin
 - Jetpack Compose for UI
 - Retrofit for API calls
 - Room for local storage
