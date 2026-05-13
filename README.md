@@ -30,13 +30,13 @@ ii. Add it to lacal.properties (NEWS_API_KEY = your_api_key)
 ### General Articles
 https://github.com/user-attachments/assets/9fcfab07-dd72-4ac8-bb59-953a81b5a382
 
-### Filtered Health Articles
+### Filtered Sports Articles
 https://github.com/user-attachments/assets/48a958d2-4964-4219-b60c-ffa1a35fdd82
 
-### Filtered Sports Articles
+### Bookmarked Articles
 https://github.com/user-attachments/assets/49c5d092-83c1-4385-9604-0f2ce77d77b8
 
-### Bookmarked Articles
+### Filtered Health Articles
 https://github.com/user-attachments/assets/ec373db7-96dd-4a3d-a113-b87f7a65a709
 
 ### About Screen
