@@ -41,3 +41,5 @@ https://github.com/user-attachments/assets/ec373db7-96dd-4a3d-a113-b87f7a65a709
 
 ### About Screen
 https://github.com/user-attachments/assets/6aca2d30-4593-4164-a4ec-70fcaabd2638
+
+### Download the APK directly: https://github.com/AbwaoSam/Nexus/releases/download/v1.0.0/Nexus.apk
